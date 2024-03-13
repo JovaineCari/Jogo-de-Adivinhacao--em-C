@@ -1,0 +1,12 @@
+Este é um jogo de adivinhação de números programado na linguagem C;
+Neste jogo eu inclui as seguintes características:
+  - Mensagem de boas vindas com arte Ascii;
+  - Número aleatório de 1 a 100;
+  - 3 níveis de dificuldade;
+  - Mensagens que informam se o número é maior ou menor que o chute;
+  - Mensagens de derrota ou vitória com arte Ascii;
+  - Pontuação baseada na quantidade de tentativas e na diferença entre o número secreto e o número do chute;
+
+Elaborei esse programa tendo como base o que foi ensinado no curso de C da ALURA.
+
+Espero que goste!
